@@ -18,7 +18,9 @@
   - Industry demand
   - Versatility across cloud providers
 
-**[⬆ Back to index](#index)**
+## [Reference Url](https://docs.google.com/presentation/d/1tlv_1m1dpbwTMNpCFXc3KxsV8aArDxKX2iE4XiauSkE/edit?usp=drive_link)
+
+- ![Diagram](images/terraform-on-aws-cloud.pdf)
 
 ---
 
