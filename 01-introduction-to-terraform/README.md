@@ -21,6 +21,8 @@
 
   **[⬆ Back to index](#index)**
 
+  ![Diagram](images/diagrams-illustrating-traditional-vs-Iac-methods.png)
+
 ## What is Terraform?
 
 - Terraform is an `Infrastructure as Code` software tool created by [HashiCorp](https://www.hashicorp.com/).
@@ -30,8 +32,6 @@
 - The core Terraform workflow consists of three stages:
   ![Diagram](images/core-terraform-workflow.png)
   **[⬆ Back to index](#index)**
-
-  ![Diagram](images/diagrams-illustrating-traditional-vs-Iac-methods.png)
 
 ### Brief overview of Infrastructure as Code (IaC)
 
