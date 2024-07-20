@@ -20,7 +20,10 @@
 
 ## [Reference Url](https://docs.google.com/presentation/d/1tlv_1m1dpbwTMNpCFXc3KxsV8aArDxKX2iE4XiauSkE/edit?usp=drive_link)
 
-- [terraform-on-aws-cloud.pdf](images/terraform-on-aws-cloud.pdf)
+- You can view the PDF document
+  <a href="images/terraform-on-aws-cloud.pdf">
+  <img src="images/pdf-thumbnail.png" alt="PDF Thumbnail" width="15" height="10">
+  </a>
 
 ---
 
